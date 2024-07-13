@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "react",
+    "src": "images/1.png",
+    "alt": "대충 react.js 로고 이미지"
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "name": "pyhon",
+    "src": "images/2.png",
+    "alt": "대충 python 로고 이미지"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "name": "js",
+    "src": "images/3.webp",
+    "alt": "대충 js 로고 이미지"
   }
 ]
